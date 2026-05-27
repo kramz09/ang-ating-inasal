@@ -1,0 +1,9 @@
+﻿git.exe : To https://github.com/kramz09/ang-ating-inasal.git
+At line:1 char:572
++ ... oding utf8; & 'C:\Program Files\Git\cmd\git.exe' push -f origin main  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (To https://gith...ting-inasal.git 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ + 88eb4fdf...070e26b8 main -> main (forced update)
