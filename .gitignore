@@ -1,0 +1,49 @@
+# WordPress core and local development ignores
+# Ignore local runtime files and generated logs.
+logs/
+*.log
+*.sql
+*.sql.gz
+*.sqlite
+*.sqlite3
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore PHPStorm caches and metadata
+.idea/
+*.iml
+
+# Ignore Local by Flywheel / LocalWP files
+local-xdebuginfo.php
+
+# Ignore WordPress uploads and cache directories
+app/wp-content/uploads/
+app/wp-content/upgrade/
+app/wp-content/cache/
+app/wp-content/backups/
+app/public/wp-content/updraft/
+
+# Ignore environment-specific config and secrets
+app/wp-config.php
+app/.env
+
+# Ignore Composer and Node dependencies if present
+vendor/
+node_modules/
+
+# Ignore compiled assets
+*.css.map
+*.js.map
+
+# Ignore npm/yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

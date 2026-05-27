@@ -1,0 +1,1148 @@
+msgid ""
+msgstr ""
+"Language: ja\n"
+"POT-Creation-Date: 2020-02-06 11:35+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2026-03-19 16:41+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Project-Id-Version: WOW Style Contact Form 7\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: admin/class-cf7-customizer-admin-ajax.php:563
+msgid " installed and activated"
+msgstr "インストールされ、アクティブ化されました"
+
+#: admin/class-cf7-customizer-admin.php:509
+msgid "- disable style scheme -"
+msgstr "- スタイルスキームを無効にする -"
+
+#: includes/lib/Cf7_Template.php:68
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:467
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:521
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:676
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:793
+msgid "- select -"
+msgstr "- 選択 -"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:307
+msgid "14-days Trial"
+msgstr "14日間のトライアル"
+
+#. %s: global policy title.
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:235
+#, php-format
+msgid ""
+"<strong>%s</strong> used for all forms globally, click \"Use for all forms\" "
+"if you want to use current Scheme."
+msgstr ""
+"<strong>%s</strong> "
+"はすべてのフォームでグローバルに使用されます。「すべてのフォームで使用」をクリックすると、現在のスキームを使用できます。"
+
+#: cf7-styler.php:139
+msgid "A contact form."
+msgstr "お問い合わせフォーム。"
+
+#: cf7-styler.php:161
+msgid "A moment where several people are there at the same time."
+msgstr "複数の人が同時にいる瞬間。"
+
+#: cf7-styler.php:169
+msgid "A question."
+msgstr "質問。"
+
+#: cf7-styler.php:141
+msgid "A quote."
+msgstr "引用。"
+
+#: cf7-styler.php:140
+msgid "A support request."
+msgstr "サポートリクエスト。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:246
+msgid "Activate style for all forms*"
+msgstr "すべてのフォームにスタイルをアクティブ化*"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1302
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1343
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1412
+msgid "Activate style for current form"
+msgstr "現在のフォームにスタイルをアクティブ化"
+
+#: cf7-styler.php:147
+msgid "Again and again."
+msgstr "何度も。"
+
+#: cf7-styler.php:149
+msgid "Always just you…"
+msgstr "いつもあなただけ…"
+
+#: cf7-styler.php:142
+msgid "An invoice question."
+msgstr "請求書に関する質問。"
+
+#: cf7-styler.php:150
+msgid "and one more message."
+msgstr "もう一つのメッセージ。"
+
+#: cf7-styler.php:173
+msgid "And suddenly, something starts to move."
+msgstr "そして突然、何かが動き始める。"
+
+#: cf7-styler.php:154
+msgid "And then there are pages"
+msgstr "そしてページがある。"
+
+#: cf7-styler.php:183
+msgid "And what would otherwise take dozens of messages…"
+msgstr "そうでなければ何十通ものメッセージが必要になる…"
+
+#: cf7-styler.php:178
+msgid "And without you having to explain it, something shifts:"
+msgstr "そして説明する必要もなく、何かが変わる："
+
+#: cf7-styler.php:171
+msgid "Another one."
+msgstr "もう一つ。"
+
+#: cf7-styler.php:181
+msgid "Answers are lived and experienced together."
+msgstr "答えは共に生き、体験される。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:322
+msgid ""
+"As an alternative you can disable clean out the styles like on Thrive "
+"architect:"
+msgstr "代わりに、Thrive Architectのようにスタイルをクリーンアウトすることもできます："
+
+#: cf7-styler.php:164
+msgid "At first, it's quiet."
+msgstr "最初は静か。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:536
+msgid "Background Color"
+msgstr "背景色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:564
+msgid "Background Image"
+msgstr "背景画像"
+
+#: cf7-styler.php:194
+msgid "become spaces where things truly start to move."
+msgstr "物事が本当に動き始める空間になる。"
+
+#: admin/partials/cf7-customizer-admin-tab-required-plugin.php:11
+msgid ""
+"Before using WOW Style Contact Form 7, you need to install and activate "
+"Contact Form 7 plugin."
+msgstr ""
+"WOW Style Contact Form 7を使用する前に、Contact Form 7プラグインをインストールしてアクティブ化する必要があります。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:857
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1080
+msgid "BG Color"
+msgstr "BG色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:863
+msgid "BG Opacity"
+msgstr "BG不透明度"
+
+#: includes/lib/Cf7_Template.php:43
+msgid "Blur radius"
+msgstr "ぼかし半径"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:947
+msgid "Border"
+msgstr "ボーダー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:811
+msgid "Border Color"
+msgstr "ボーダー色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:806
+msgid "Border Radius"
+msgstr "ボーダー半径"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:790
+msgid "Border Type"
+msgstr "ボーダータイプ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:768
+msgid "Border Width"
+msgstr "ボーダー幅"
+
+#: cf7-styler.php:159
+msgid "But a space."
+msgstr "しかし、空間。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1106
+msgid "Button Border"
+msgstr "ボタンボーダー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1045
+msgid "Buttons"
+msgstr "ボタン"
+
+#: includes/lib/Cf7_Required_Plugin.php:13
+msgid "By Takayuki Miyoshi"
+msgstr "宮下高幸による"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:418
+msgid "Cancel"
+msgstr "キャンセル"
+
+#. %s: link to install contact form 7.
+#: cf7-styler.php:277
+#, php-format
+msgid ""
+"CF7 Customizer requires Contact Form 7 plugin to be installed and active. "
+"You can download %s."
+msgstr ""
+"CF7カスタマイザーは、Contact Form 7プラグインがインストールされ、アクティブである必要があります。%sをダウンロードできます。"
+
+#: admin/class-cf7-customizer-admin-ajax.php:505
+msgid "CF7 Form is not selected"
+msgstr "CF7フォームが選択されていません"
+
+#: admin/class-cf7-customizer-admin.php:130
+#: admin/class-cf7-customizer-admin.php:131
+#: admin/class-cf7-customizer-admin.php:151
+#: admin/class-cf7-customizer-admin.php:152
+#: admin/class-cf7-customizer-admin.php:476
+#: public/class-cf7-customizer-public.php:355
+#: public/class-cf7-customizer-public.php:384
+msgid "CF7 Styler"
+msgstr "CF7スタイラー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:990
+msgid "Checkboxes & Radiobuttons"
+msgstr "チェックボックスとラジオボタン"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:382
+msgid "Clean Styles"
+msgstr "スタイルをクリア"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1148
+msgid "Clear"
+msgstr "クリア"
+
+#: public/class-cf7-customizer-public.php:373
+msgid "Close"
+msgstr "閉じる"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:977
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1120
+msgid "Color"
+msgstr "色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1191
+msgid "Contact form 7 list"
+msgstr "Contact Form 7リスト"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:679
+msgid "Contain"
+msgstr "含む"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:414
+msgid "Copy current style scheme settings"
+msgstr "現在のスタイルスキーム設定をコピー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:678
+msgid "Cover"
+msgstr "カバー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:417
+msgid "Create"
+msgstr "作成"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:297
+msgid "Create multiple style schemes"
+msgstr "複数のスタイルスキームを作成"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:374
+msgid "Create new style scheme!"
+msgstr "新しいスタイルスキームを作成！"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:9
+msgid "Current Style"
+msgstr "現在のスタイル"
+
+#. %s: styled form title.
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1397
+#, php-format
+msgid ""
+"Currently <strong id=\"cf7cstmzr-styled_form_title\">%1$s</strong> form is "
+"styled with <strong id=\"cf7cstmzr-styled_form_style_title\">%2$s</strong>. "
+"As in free version you can style only one form at a time and if you activate "
+"style for current form, style will be removed from other form."
+msgstr ""
+"現在、<strong id=\"cf7cstmzr-styled_form_title\">%1$s</strong> フォームは <strong "
+"id=\"cf7cstmzr-styled_form_style_title\">%2$s</strong> "
+"でスタイルされています。無料版では一度に一つのフォームのみスタイルを適用でき、現在のフォームにスタイルを適用すると他のフォームからスタイルが削除されます。"
+
+#. %s: styled form title.
+#: admin/class-cf7-customizer-admin.php:529
+#, php-format
+msgid ""
+"Currently <strong>\"%1$s</strong> form is styled with <strong>\"%2$s</strong>"
+". As in free version you can style only one form at a time and if you "
+"activate style for current form, style will be removed from other form."
+msgstr ""
+"現在 <strong>\"%1$s</strong> フォームは <strong>\"%2$s</strong> "
+"でスタイリングされています。無料版では一度に1つのフォームのみスタイリングでき、現在のフォームにスタイルをアクティブ化すると、他のフォームからスタイルが削除されます。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1138
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1140
+msgid "Custom CSS Code"
+msgstr "カスタムCSSコード"
+
+#: includes/lib/Cf7_Template.php:80
+msgid "Dashed"
+msgstr "破線"
+
+#: admin/class-cf7-customizer-admin-ajax.php:68
+#: admin/class-cf7-customizer-admin-ajax.php:241
+#: includes/lib/Cf7_Style_Scheme.php:7
+msgid "Default Scheme"
+msgstr "デフォルトスキーム"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:584
+msgid "Delete Image"
+msgstr "画像を削除"
+
+#: admin/class-cf7-customizer-admin-ajax.php:290
+msgid "deleted"
+msgstr "削除済み"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1172
+msgid "Desktop View"
+msgstr "デスクトップビュー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:262
+msgid "Disable style for all forms"
+msgstr "すべてのフォームのスタイルを無効にする"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1306
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1347
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1416
+msgid "Disable style for current form"
+msgstr "現在のフォームのスタイルを無効にする"
+
+#: admin/partials/cf7-customizer-admin-display.php:56
+msgid ""
+"Do you like to get styler premium version for free? Then <a href=\"?"
+"page=wp2l-admin&tab=settings\" target=\"_blank\">Enter your WP2LEADS pro "
+"license</a> or get a license <a href=\"https://wp2leads-for-klick-tipp."
+"com/web/go-pro-plus-get-all-done4u/\" target=\"_blank\">here</a>!"
+msgstr ""
+"スタイラーのプレミアム版を無料で入手したいですか？それなら、<a href=\"?page=wp2l-admin&tab=settings\" "
+"target=\"_blank\">WP2LEADSプロライセンスを入力</a>するか、<a href=\"https://wp2leads-for-"
+"klick-tipp.com/web/go-pro-plus-get-all-done4u/\" target=\"_blank\">こちら</a>"
+"でライセンスを取得してください！"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:186
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:306
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:307
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:555
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1003
+msgid "Do you want to save changes before leaving page?"
+msgstr "ページを離れる前に変更を保存しますか？"
+
+#: includes/lib/Cf7_Template.php:79
+msgid "Dotted"
+msgstr "点線"
+
+#: includes/lib/Cf7_Template.php:81
+msgid "Double"
+msgstr "二重"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:35
+msgid "Duplicate form in second column"
+msgstr "第二列にフォームを複製"
+
+#: admin/class-cf7-customizer-admin-ajax.php:402
+msgid "enabled for all forms"
+msgstr "すべてのフォームで有効"
+
+#: admin/class-cf7-customizer-admin-ajax.php:136
+#: admin/class-cf7-customizer-admin-ajax.php:234
+#: admin/class-cf7-customizer-admin-ajax.php:241
+#: admin/class-cf7-customizer-admin-ajax.php:383
+#: admin/class-cf7-customizer-admin-ajax.php:420
+#: admin/class-cf7-customizer-admin-ajax.php:428
+#: admin/class-cf7-customizer-admin-ajax.php:448
+#: admin/class-cf7-customizer-admin-ajax.php:457
+#: admin/class-cf7-customizer-admin-ajax.php:487
+#: admin/class-cf7-customizer-admin-ajax.php:505
+#: admin/class-cf7-customizer-admin-ajax.php:535
+#: admin/class-cf7-customizer-admin-ajax.php:544
+#: admin/class-cf7-customizer-admin-ajax.php:553
+#: public/class-cf7-customizer-public.php:481
+#: public/class-cf7-customizer-public.php:490
+msgid "Error"
+msgstr "エラー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:151
+msgid "Exit Full Screen"
+msgstr "フルスクリーンを終了"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:465
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:459
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:838
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1094
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:518
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:513
+msgid "Font Weight"
+msgstr "フォントウェイト"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:534
+msgid "Form BG Image & Colors"
+msgstr "フォームの背景画像と色"
+
+#: admin/partials/cf7-customizer-admin-tabs.php:17
+msgid "Form Customizing"
+msgstr "フォームのカスタマイズ"
+
+#: admin/class-cf7-customizer-admin-ajax.php:428
+#: admin/class-cf7-customizer-admin-ajax.php:457
+#: admin/class-cf7-customizer-admin-ajax.php:487
+msgid "Form is not selected"
+msgstr "フォームが選択されていません"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:693
+msgid "Form Padding, Margin & Border"
+msgstr "フォームのパディング、マージン、ボーダー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:450
+msgid "Form Text"
+msgstr "フォームテキスト"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:150
+msgid "Full Screen"
+msgstr "フルスクリーン"
+
+#: includes/lib/Cf7_Template.php:82
+msgid "Groove"
+msgstr "グルーブ"
+
+#: includes/lib/Cf7_Template.php:31
+msgid "Horizontal Length"
+msgstr "横幅"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1085
+msgid "Hover BG Color"
+msgstr "ホバー背景色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1125
+msgid "Hover Color"
+msgstr "ホバー色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1073
+msgid "Hover Text Color"
+msgstr "ホバーテキスト色"
+
+#. Author URI of the plugin
+msgid "https://saleswonder.biz/"
+msgstr "https://saleswonder.biz/"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/cf7-styler/"
+msgstr "https://wordpress.org/plugins/cf7-styler/"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:356
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:364
+msgid "I'm happy with this! Save"
+msgstr "これで満足です！保存"
+
+#: cf7-styler.php:191
+msgid "I've written it down in a short email series —"
+msgstr "短いメールシリーズに書き留めた —"
+
+#: admin/partials/cf7-customizer-admin-display.php:34
+msgid ""
+"If you are using page builders, like Thrive Architect, OptimizePress etc., "
+"please check our <a href=\"https://saleswonder.biz/knowledge-base/\" "
+"target=\"_blank\">Knowledge Base page</a> for fixing possible issues"
+msgstr ""
+"Thrive ArchitectやOptimizePressなどのページビルダーを使用している場合は、<a href=\"https:"
+"//saleswonder.biz/knowledge-base/\" target=\"_blank\">ナレッジベースページ</a>"
+"を確認して、問題を解決してください。"
+
+#: cf7-styler.php:188
+msgid "If you can feel what that would change for you,"
+msgstr "それがあなたにどんな変化をもたらすか感じられるなら、"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:279
+msgid ""
+"If you need to load style scheme inside <code>&lt;body&gt;</code> tag only "
+"on some pages, you can do it on frontend using \"CF7 Styler\" button. This "
+"function is only available for single post types (pages, posts, products etc."
+") and in premium version. You can not do it on archives pages (blog, "
+"products list etc) in this case you need to use global settings."
+msgstr ""
+"特定のページでのみ<code>&lt;body&gt;</code>タグ内にスタイルスキームを読み込む必要がある場合は、フロントエンドで「CF7 "
+"Styler」ボタンを使用して行えます。この機能は単一の投稿タイプ（ページ、投稿、製品など）でのみ利用可能で、プレミアム版で提供されます。アーカイブページ（ブログ、製品リストなど）では使用できず、その場合はグローバル設定を使用する必要があります。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:318
+msgid ""
+"If you need to load style scheme inside <code>&lt;body&gt;</code> tag only "
+"on some pages, you can do it on frontend using \"CF7 Styler\" button. This "
+"function is only available for single post types (pages, posts, products etc."
+"). You can not do it on archives pages (blog, products list etc) in this "
+"case you need to use global settings."
+msgstr ""
+"特定のページでのみ<code>&lt;body&gt;</code>タグ内にスタイルスキームを読み込む必要がある場合は、フロントエンドで「CF7 "
+"Styler」ボタンを使用して行えます。この機能は単一の投稿タイプ（ページ、投稿、製品など）でのみ利用可能です。アーカイブページ（ブログ、製品リストなど）では使用できず、その場合はグローバル設定を使用する必要があります。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:551
+msgid ""
+"Image background settings available in live mode only for Professional "
+"version. You can test it in preview mode \"current style\", but it will not "
+"be saved."
+msgstr "画像の背景設定はプロフェッショナル版のライブモードでのみ利用可能。プレビューモード「現在のスタイル」でテストできますが、保存されません。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:667
+msgid "Image Opacity"
+msgstr "画像の不透明度"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:590
+msgid "Image Position"
+msgstr "画像の位置"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:674
+msgid "Image Size"
+msgstr "画像のサイズ"
+
+#: includes/lib/Cf7_Template.php:77
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:525
+msgid "Inherit"
+msgstr "継承"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:824
+msgid "Input Fields"
+msgstr "入力フィールド"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:406
+msgid "Input style scheme title"
+msgstr "入力スタイルスキームのタイトル"
+
+#: includes/lib/Cf7_Template.php:70 includes/lib/Cf7_Template.php:84
+msgid "Inset"
+msgstr "インセット"
+
+#: admin/partials/cf7-customizer-admin-tab-required-plugin.php:38
+msgid "Install and Activate"
+msgstr "インストールとアクティブ化"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:523
+msgid "Italic"
+msgstr "イタリック"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:501
+msgid "Labels Color"
+msgstr "ラベルの色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:506
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1036
+msgid "Labels Font Size"
+msgstr "ラベルのフォントサイズ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:496
+msgid "Labels Settings"
+msgstr "ラベルの設定"
+
+#: admin/partials/cf7-customizer-admin-tabs.php:19
+msgid "License"
+msgstr "ライセンス"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:843
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1099
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:484
+msgid "Links Color"
+msgstr "リンクの色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:489
+msgid "Links Hover Color"
+msgstr "リンクのホバー色"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:480
+msgid "Links Settings"
+msgstr "リンクの設定"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:10
+#: admin/partials/cf7-customizer-admin-preview-mode.php:22
+msgid "Live"
+msgstr "ライブ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:269
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:303
+msgid "Load styles in <code>&lt;body&gt;</code> tag"
+msgstr "<code>&lt;body&gt;</code>タグにスタイルを読み込む"
+
+#: public/class-cf7-customizer-public.php:361
+msgid "Load styles inside <code>&lt;body&gt;</code> tag on this page"
+msgstr "このページの<code>&lt;body&gt;</code>タグ内にスタイルを読み込む"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1013
+msgid "Make checkbox item one per line"
+msgstr "チェックボックス項目を1行ごとに表示"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1049
+msgid "Make full width?"
+msgstr "全幅にする？"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:826
+msgid "Make input fields full width?"
+msgstr "入力フィールドを全幅にする？"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1023
+msgid "Make radiobutton item one per line"
+msgstr "ラジオボタン項目を1行ごとに表示"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:737
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:916
+msgid "Margin"
+msgstr "マージン"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1174
+msgid "Mobile View"
+msgstr "モバイルビュー"
+
+#: cf7-styler.php:135
+msgid "Most websites work like this."
+msgstr "ほとんどのウェブサイトはこう機能する。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:832
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1019
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1029
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1055
+msgid "NO"
+msgstr "いいえ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1466
+msgid "No Contact Form 7 items for preview"
+msgstr "プレビュー用のContact Form 7項目はありません"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1403
+msgid ""
+"No form is styled with style scheme, click \"Activate style for current "
+"form\" button to apply current scheme for this form."
+msgstr ""
+"スタイルスキームが適用されていないフォームです。「現在のフォームにスタイルを適用」ボタンをクリックして、現在のスキームをこのフォームに適用してください。"
+
+#: admin/class-cf7-customizer-admin-ajax.php:535
+msgid "No plugin selected to install"
+msgstr "インストールするプラグインが選択されていません"
+
+#: admin/class-cf7-customizer-admin-ajax.php:234
+msgid "No style scheme selected"
+msgstr "スタイルスキームが選択されていません"
+
+#: cf7-styler.php:208
+msgid "No thanks."
+msgstr "いいえ、結構です。"
+
+#: admin/class-cf7-customizer-admin-ajax.php:420
+#: public/class-cf7-customizer-public.php:481
+msgid "Nonce verification failed"
+msgstr "Nonceの検証に失敗しました"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:522
+msgid "Normal"
+msgstr "ノーマル"
+
+#: cf7-styler.php:157
+msgid "Not another back-and-forth in your inbox."
+msgstr "受信トレイでのやり取りはもういらない。"
+
+#: cf7-styler.php:176
+msgid "Not just to you — but to each other."
+msgstr "ただあなたにではなく、お互いに。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:524
+msgid "Oblique"
+msgstr "斜体"
+
+#: cf7-styler.php:144
+msgid "One message."
+msgstr "一つのメッセージ。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:999
+msgid ""
+"One per line styles for checkboxes and radiobuttons in live mode only for "
+"Professional version. You can test it in preview mode \"current style\", but "
+"it will not be saved."
+msgstr ""
+"チェックボックスとラジオボタンの1行ごとのスタイルは、プロフェッショナル版のライブモードでのみ利用可能。プレビューの「現在のスタイル」でテストできますが、保存されません。"
+
+#: cf7-styler.php:145
+msgid "One reply."
+msgstr "一つの返信。"
+
+#: includes/lib/Cf7_Template.php:61
+msgid "Opacity"
+msgstr "不透明度"
+
+#: admin/class-cf7-customizer-admin.php:536
+#: public/class-cf7-customizer-public.php:388
+#: public/class-cf7-customizer-public.php:402
+msgid "Open styler"
+msgstr "スタイラーを開く"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:677
+msgid "Original size"
+msgstr "元のサイズ"
+
+#: includes/lib/Cf7_Template.php:69
+msgid "Outline"
+msgstr "アウトライン"
+
+#: includes/lib/Cf7_Template.php:85
+msgid "Outset"
+msgstr "アウトセット"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:706
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:885
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1059
+msgid "Padding"
+msgstr "パディング"
+
+#: cf7-styler.php:175
+msgid "People begin to show themselves."
+msgstr "人々は自分を見せ始める。"
+
+#: admin/class-cf7-customizer-admin-ajax.php:136
+msgid "Please input style scheme title"
+msgstr "スタイルスキームのタイトルを入力してください"
+
+#: admin/class-cf7-customizer-admin-ajax.php:553
+msgid "Plugin could not be installed manually"
+msgstr "プラグインを手動でインストールできませんでした"
+
+#: admin/class-cf7-customizer-admin-ajax.php:544
+msgid "Plugin you are trying to install is not in the required list"
+msgstr "インストールしようとしているプラグインは必要なリストにありません"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1144
+msgid "Preview"
+msgstr "プレビュー"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:5
+msgid "Preview mode"
+msgstr "プレビューモード"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1357
+msgid "Preview Unstyled"
+msgstr "スタイルなしのプレビュー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:972
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1114
+msgid "Radius"
+msgstr "半径"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:682
+msgid "Repeat both"
+msgstr "両方を繰り返す"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:681
+msgid "Repeat horizontal"
+msgstr "横に繰り返す"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:680
+msgid "Repeat vertical"
+msgstr "縦に繰り返す"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:387
+msgid "Reset to default"
+msgstr "デフォルトにリセット"
+
+#: includes/lib/Cf7_Template.php:83
+msgid "Ridge"
+msgstr "リッジ"
+
+#: public/class-cf7-customizer-public.php:367
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:365
+msgid "Save"
+msgstr "保存"
+
+#: admin/class-cf7-customizer-admin-ajax.php:121
+#: public/class-cf7-customizer-public.php:502
+msgid "Saved"
+msgstr "保存されました"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:20
+msgid "Second column view"
+msgstr "第2カラムビュー"
+
+#: admin/class-cf7-customizer-admin.php:505
+msgid "Select style scheme for this form"
+msgstr "このフォームのスタイルスキームを選択"
+
+#: admin/partials/cf7-customizer-admin-tabs.php:18
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class-cf7-customizer-admin-ajax.php:213
+msgid "Settings saved as "
+msgstr "設定が保存されました"
+
+#: includes/lib/Cf7_Template.php:27
+msgid "Shadow"
+msgstr "影"
+
+#: includes/lib/Cf7_Template.php:56
+msgid "Shadow Color"
+msgstr "影の色"
+
+#: includes/lib/Cf7_Template.php:66
+msgid "Shadow Position"
+msgstr "影の位置"
+
+#: includes/lib/Cf7_Template.php:78
+msgid "Solid"
+msgstr "ソリッド"
+
+#: cf7-styler.php:166
+msgid "Some just listen."
+msgstr "ただ聞いている人もいる。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:275
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:314
+msgid ""
+"Some themes or page builders (fe. Thrive Architect, OptimizePress etc.) "
+"could remove inline styles inside <code>&lt;head&gt;</code> tag. Loading "
+"style scheme within <code>&lt;body&gt;</code> tag will fix this issue and "
+"show your forms styled."
+msgstr ""
+"一部のテーマやページビルダー（例：Thrive Architect、OptimizePressなど）は、<code>&lt;head&gt;</code>"
+"タグ内のインラインスタイルを削除する可能性があります。<code>&lt;body&gt;</code>"
+"タグ内にスタイルスキームを読み込むことで、この問題を解決し、スタイルが適用されたフォームを表示できます。"
+
+#: cf7-styler.php:29
+msgid "Sorry, you are not allowed to access this page."
+msgstr "申し訳ありませんが、このページにアクセスする権限がありません。"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:8
+msgid "Split mode"
+msgstr "スプリットモード"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:15
+msgid "Split view"
+msgstr "分割ビュー"
+
+#: includes/lib/Cf7_Template.php:48
+msgid "Spread radius"
+msgstr "スプレッド半径"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:341
+msgid "Start with creating Default Style Scheme"
+msgstr "デフォルトスタイルスキームの作成から始める"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1429
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1470
+msgid ""
+"Start with creating your <a href=\"admin.php?page=wpcf7-new\">first Contact "
+"Form 7</a>"
+msgstr ""
+"最初の<a href=\"admin.php?page=wpcf7-new\">Contact Form 7</a>を作成することから始めましょう"
+
+#: admin/partials/cf7-customizer-admin-display.php:77
+msgid ""
+"Start your 14-day free trial with all Professional functions <a href=\"admin."
+"php?billing_cycle=annual&trial=true&page=cf7cstmzr_page-pricing\" class=\"go-"
+"to-upgrade\" data-confirm=\"Do you want to save changes before leaving page?"
+"\" target=\"_blank\">here</a>!"
+msgstr ""
+"すべてのプロ機能を含む14日間の無料トライアルを<a href=\"admin.php?"
+"billing_cycle=annual&trial=true&page=cf7cstmzr_page-pricing\" class=\"go-to-"
+"upgrade\" data-confirm=\"ページを離れる前に変更を保存しますか？\" target=\"_blank\">こちら</a>で開始！"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:324
+msgid "Step 1. Click \"Edit with Thrive architect\" link in admin page list"
+msgstr "ステップ1. 管理ページリストの「Thrive architectで編集」リンクをクリック"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:326
+msgid "Step 2. Click \"Settings\" icon on right vertical menu"
+msgstr "ステップ2. 右の縦メニューの「設定」アイコンをクリック"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:328
+msgid "Step 3. \"Advanced settings\" => \"CSS in the &lt;head&gt; section\""
+msgstr "ステップ3. 「高度な設定」 => 「&lt;head&gt;セクションのCSS」"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:330
+msgid ""
+"Step 4. Make sure that \"Do not strip CSS from &lt;head&gt;\" is checked"
+msgstr "ステップ4. 「&lt;head&gt;からCSSを削除しない」がチェックされていることを確認する"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:332
+msgid "Step 5. Click \"SAVE WORK\" button"
+msgstr "ステップ5. 「作業を保存」ボタンをクリック"
+
+#: cf7-styler.php:192
+msgid "step by step, how individual requests"
+msgstr "一歩一歩、個々のリクエストが"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:294
+msgid "Style all forms in one click globally"
+msgstr "すべてのフォームを一括でスタイル設定"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:300
+msgid "Style each form with any style scheme individually"
+msgstr "各フォームを個別に任意のスタイルスキームでスタイル設定"
+
+#: admin/class-cf7-customizer-admin-ajax.php:412
+msgid "Style scheme disabled for all forms"
+msgstr "すべてのフォームに対してスタイルスキームが無効"
+
+#: admin/class-cf7-customizer-admin-ajax.php:495
+msgid "Style scheme disabled for this form"
+msgstr "このフォームに対してスタイルスキームが無効"
+
+#: admin/class-cf7-customizer-admin-ajax.php:436
+#: admin/class-cf7-customizer-admin-ajax.php:476
+msgid "Style scheme enabled for this form"
+msgstr "このフォームに対してスタイルスキームが有効"
+
+#: admin/class-cf7-customizer-admin-ajax.php:383
+#: admin/class-cf7-customizer-admin-ajax.php:448
+msgid "Style scheme is not selected"
+msgstr "スタイルスキームが選択されていない"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:182
+msgid "Style schemes list"
+msgstr "スタイルスキームリスト"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1168
+msgid "Style schemes preview"
+msgstr "スタイルスキームプレビュー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:148
+msgid "Style schemes settings"
+msgstr "スタイルスキーム設定"
+
+#: admin/class-cf7-customizer-admin-ajax.php:303
+msgid "Style will be loaded in <body> tag"
+msgstr "スタイルは<body>タグに読み込まれます"
+
+#: admin/class-cf7-customizer-admin-ajax.php:306
+msgid "Style will be loaded in <head> tag"
+msgstr "スタイルは<head>タグに読み込まれます"
+
+#: admin/class-cf7-customizer-admin-ajax.php:121
+#: admin/class-cf7-customizer-admin-ajax.php:213
+#: admin/class-cf7-customizer-admin-ajax.php:290
+#: admin/class-cf7-customizer-admin-ajax.php:309
+#: admin/class-cf7-customizer-admin-ajax.php:392
+#: admin/class-cf7-customizer-admin-ajax.php:402
+#: admin/class-cf7-customizer-admin-ajax.php:412
+#: admin/class-cf7-customizer-admin-ajax.php:436
+#: admin/class-cf7-customizer-admin-ajax.php:476
+#: admin/class-cf7-customizer-admin-ajax.php:495
+#: admin/class-cf7-customizer-admin-ajax.php:563
+#: public/class-cf7-customizer-public.php:502
+msgid "Success"
+msgstr "成功"
+
+#: cf7-styler.php:184
+msgid "suddenly resolves in a single conversation."
+msgstr "突然一つの会話で解決する。"
+
+#: admin/class-cf7-customizer-admin.php:141
+#: admin/class-cf7-customizer-admin.php:142
+#: admin/class-cf7-customizer-admin.php:160
+#: admin/class-cf7-customizer-admin.php:161
+msgid "Support & KB"
+msgstr "サポート & KB"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1173
+msgid "Tablet View"
+msgstr "タブレットビュー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:454
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:852
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1068
+msgid "Text Color"
+msgstr "テキストカラー"
+
+#: cf7-styler.php:155
+msgid "that open something different."
+msgstr "何か異なるものを開く。"
+
+#: cf7-styler.php:168
+msgid "Then someone raises their hand."
+msgstr "誰かが手を挙げる。"
+
+#. %s: enabeled globally title.
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1329
+#, php-format
+msgid ""
+"This form is styled with <strong>%s</strong> globally, you can style it with "
+"current Style scheme."
+msgstr "このフォームは<strong>%s</strong>でグローバルにスタイル設定されています。現在のスタイルスキームでスタイル設定できます。"
+
+#. %s: first form title.
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1323
+#, php-format
+msgid ""
+"This form is styled with <strong>%s</strong>, you can style it with current "
+"Style scheme."
+msgstr "このフォームは<strong>%s</strong>でスタイル設定されています。現在のスタイルスキームでスタイル設定できます。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1317
+msgid ""
+"This form is styled with current Style Scheme, you can disable it and use "
+"global settings."
+msgstr "このフォームは現在のスタイルスキームでスタイル設定されています。無効にしてグローバル設定を使用できます。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1333
+msgid ""
+"This form not styled with any Style scheme, you can enable current Scheme "
+"for this form or set up global Style Scheme by clicking \"Use for all "
+"forms\" below scheme title."
+msgstr ""
+"このフォームはスタイルスキームでスタイル設定されていません。現在のスキームをこのフォームに対して有効にするか、「すべてのフォームに使用」をクリックしてグローバルスタイルスキームを設定できます。"
+
+#: admin/class-cf7-customizer-admin-ajax.php:392
+msgid "This scheme is not existed"
+msgstr "このスキームは存在しません"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:255
+msgid ""
+"This Style Scheme enabled globally for all forms. If you want to use your "
+"theme's style for Contact Form 7 click \"Disable\" button."
+msgstr ""
+"このスタイルスキームはすべてのフォームに対してグローバルに有効です。Contact Form "
+"7のテーマスタイルを使用したい場合は、「無効にする」ボタンをクリックしてください。"
+
+#. Author of the plugin
+msgid "Tobias Conrad"
+msgstr "トビアス・コンラッド"
+
+#. Description of the plugin
+msgid ""
+"Turn “just another CF7 form” into a branded experience across all your forms."
+" WOW Styler for CF7 lets you style multiple Contact Form 7 forms visually "
+"with live preview and reusable designs, without writing CSS."
+msgstr ""
+"「ただのCF7フォーム」をすべてのフォームでブランド体験に変えます。WOW Styler for "
+"CF7を使用すると、CSSを記述せずに、複数のContact Form 7フォームを視覚的にスタイル設定できます。"
+
+#: admin/partials/cf7-customizer-admin-tutorial.php:38
+msgid "Tutorial"
+msgstr "チュートリアル"
+
+#: admin/class-cf7-customizer-admin.php:613
+msgid "Unlock access +"
+msgstr "アクセスを解除 +"
+
+#: admin/partials/cf7-customizer-admin-preview-mode.php:11
+#: admin/partials/cf7-customizer-admin-preview-mode.php:29
+msgid "Unstyled"
+msgstr "スタイル未設定"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:306
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:555
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1003
+msgid "Upgrade to Pro"
+msgstr "Proにアップグレード"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:580
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: includes/lib/Cf7_Template.php:36
+msgid "Vertical Length"
+msgstr "縦の長さ"
+
+#: admin/partials/cf7-customizer-admin-tutorial.php:36
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1109
+msgid "Width"
+msgstr "幅"
+
+#: cf7-styler.php:288 admin/partials/cf7-customizer-admin-display.php:23
+msgid "WOW Style Contact Form 7"
+msgstr "WOWスタイルContact Form 7"
+
+#. Name of the plugin
+msgid "WOW Styler for CF7 – Visual Styler for Contact Form 7 Forms"
+msgstr "WOW Styler for CF7 – Contact Form 7フォームのビジュアルスタイラー"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:829
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1016
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1026
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1052
+msgid "YES"
+msgstr "はい"
+
+#: cf7-styler.php:163
+msgid "You begin to speak."
+msgstr "話し始める。"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:409
+msgid ""
+"You can create new style scheme with current scheme settings. If you want to "
+"create blank style schem unchek checkbox below."
+msgstr "現在のスキーム設定で新しいスタイルスキームを作成できます。空のスタイルスキームを作成したい場合は、下のチェックボックスをオフにしてください。"
+
+#: admin/class-cf7-customizer-admin-ajax.php:241
+msgid "You can not delete"
+msgstr "削除できません"
+
+#: public/class-cf7-customizer-public.php:490
+msgid "You can not use this settings on this page type"
+msgstr "このページタイプではこの設定を使用できません"
+
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:1427
+msgid "You do not have any Contact Form 7 items"
+msgstr "Contact Form 7アイテムがありません"
+
+#. No scheme enabled
+#: admin/partials/cf7-customizer-admin-tab-form-customize.php:237
+msgid ""
+"You do not use any of Style Schemes for Contact Form 7. Click \"Use for all "
+"forms\" to use current Scheme globally."
+msgstr ""
+"Contact Form 7に対してスタイルスキームを使用していません。「すべてのフォームに使用」をクリックして現在のスキームをグローバルに使用します。"
+
+#: cf7-styler.php:119
+msgid "You just activated the styler — before you start styling."
+msgstr "スタイラーを有効化しました — スタイリングを開始する前に。"
+
+#: cf7-styler.php:125
+msgid "You just updated the styler — before you continue styling."
+msgstr "スタイラーが更新されました — スタイリングを続ける前に。"
+
+#: cf7-styler.php:189
+msgid "you probably want to see how sessions like these come to life."
+msgstr "このようなセッションがどのように生まれるか見たいはず。"
+
+#: cf7-styler.php:180
+msgid "You're no longer being approached one by one."
+msgstr "もはや一人ずつアプローチされることはない。"
+
+#: cf7-styler.php:207
+msgid "👉 Yes, send me the focus session ideas"
+msgstr "👉 はい、フォーカスセッションのアイデアを送ってください"

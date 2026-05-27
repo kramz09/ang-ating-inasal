@@ -1,0 +1,55 @@
+{
+    "name": "themewinter/wp-cafe",
+    "description": "WordPress Restaurant solution plugin to launch Restaurant Websites.",
+    "type": "project",
+    "require": {
+        "themewinter/uninstaller_form": "dev-main",
+        "arraytics/tools-sdk": "dev-main",
+        "arraytics/plugin-notice-sdk": "dev-main",
+        "themewinter/email-notification-sdk": "dev-main"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6",
+        "yoast/phpunit-polyfills": "^1.0"
+    },
+    "autoload": {
+        "classmap": [
+            "base/",
+            "core/",
+            "utils/",
+            "upgrades/",
+            "traits/",
+            "widgets/"
+        ],
+        "files": [
+            "utils/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WpCafe\\Tests\\": "tests/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/themewinter/uninstaller_form"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/themewinter/tools-sdk"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/themewinter/plugin-notice-sdk"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/themewinter/email-notification-sdk"
+        }
+    ],
+    "scripts": {
+        "test": "./vendor/bin/phpunit",
+        "test:unit": "./vendor/bin/phpunit"
+    }
+}
